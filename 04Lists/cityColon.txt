@@ -1,0 +1,601 @@
+1:New York:New York:8,008,278:303.3:26,401 
+2:Los Angeles:California:3,694,820:469.1:7,876 
+3:Chicago:Illinois:2,896,016:227.1:12,749 
+4:Houston:Texas:1,953,631:579.5:3,372 
+5:Philadelphia:Pennsylvania:1,517,550:135.1:11,233 
+6:Phoenix:Arizona:1,321,045:474.9:2,782 
+7:San Diego:California:1,223,400:324.4:3,772 
+8:Dallas:Texas:1,188,580:342.6:3,470 
+9:San Antonio:Texas:1,144,646:407.6:2,808 
+10:Detroit:Michigan:951,270:138.8:6,855 
+11:San Jose:California:894,943:174.9:5,118 
+12:Indianapolis:Indiana:781,870:361.5:2,163 
+13:San Francisco:California:776,733:46.7:16,633 
+14:Jacksonville:Florida:735,617:757.7:971 
+15:Columbus:Ohio:711,470:210.3:3,383 
+16:Austin:Texas:656,562:251.5:2,610 
+17:Baltimore:Maryland:651,154:80.8:8,058 
+18:Memphis:Tennessee:650,100:279.3:2,327 
+19:Milwaukee:Wisconsin:596,974:96.1:6,214 
+20:Boston:Massachusetts:589,141:48.4:12,165 
+21:Washington:DC:572,059:61.4:9,316 
+22:El Paso:Texas:563,662:249.1:2,263 
+23:Seattle:Washington:563,374:83.9:6,717 
+24:Denver:Colorado:554,636:153.4:3,617 
+25:Nashville-Davidson:Tennessee:545,524:473.3:1,152 
+26:Charlotte:North Carolina:540,828:242.3:2,232 
+27:Fort Worth:Texas:534,694:292.6:1,828 
+28:Portland:Oregon:529,121:134.3:3,939 
+29:Oklahoma City:Oklahoma:506,132:607.0:834 
+30:Tucson:Arizona:486,699:194.7:2,500 
+31:New Orleans:Louisiana:484,674:180.6:2,684 
+32:Las Vegas:Nevada:478,434:113.3:4,222 
+33:Cleveland:Ohio:478,403:77.6:6,166 
+34:Long Beach:California:461,522:50.4:9,149 
+35:Albuquerque:New Mexico:448,607:180.7:2,483 
+36:Kansas City:Missouri:441,545:313.6:1,408 
+37:Fresno:California:427,652:104.4:4,097 
+38:Virginia Beach:Virginia:425,257:248.3:1,713 
+39:Atlanta:Georgia:416,474:131.8:3,161 
+40:Sacramento:California:407,018:97.2:4,189 
+41:Oakland:California:399,484:56.1:7,126 
+42:Mesa:Arizona:396,375:125.0:3,171 
+43:Tulsa:Oklahoma:393,049:182.7:2,152 
+44:Omaha:Nebraska:390,007:115.7:3,371 
+45:Minneapolis:Minnesota:382,618:54.9:6,970 
+46:Miami:Florida:362,470:35.7:10,160 
+47:Colorado Springs:Colorado:360,890:185.8:1,943 
+48:St. Louis:Missouri:348,189:61.9:5,622 
+49:Wichita:Kansas:344,284:135.8:2,536 
+50:Santa Ana:California:337,977:27.1:12,451 
+51:Pittsburgh:Pennsylvania:334,563:55.6:6,019 
+52:Arlington:Texas:332,969:95.8:3,475 
+53:Cincinnati:Ohio:331,285:78.0:4,249 
+54:Anaheim:California:328,014:48.9:6,702 
+55:Toledo:Ohio:313,619:80.6:3,890 
+56:Tampa:Florida:303,447:112.1:2,708 
+57:Buffalo:New York:292,648:40.6:7,205 
+58:St. Paul:Minnesota:287,151:52.8:5,441 
+59:Corpus Christi:Texas:277,454:154.6:1,794 
+60:Aurora:Colorado:276,393:142.5:1,939 
+61:Raleigh:North Carolina:276,093:114.6:2,409 
+62:Newark:New Jersey:273,546:23.8:11,494 
+63:Lexington-Fayette:Kentucky:260,512:284.5:916 
+64:Anchorage:Alaska:260,283:1,697.3:153 
+65:Louisville:Kentucky:256,231:62.1:4,125 
+66:Riverside:California:255,166:78.1:3,267 
+67:St. Petersburg:Florida:248,232:59.6:4,163 
+68:Bakersfield:California:247,057:113.1:2,184 
+69:Stockton:California:243,771:54.7:4,455 
+70:Birmingham:Alabama:242,820:149.9:1,620 
+71:Jersey City:New Jersey:240,055:14.9:16,093 
+72:Norfolk:Virginia:234,403:53.7:4,362 
+73:Baton Rouge:Louisiana:227,818:76.8:2,964 
+74:Hialeah:Florida:226,419:19.2:11,766 
+75:Lincoln:Nebraska:225,581:74.6:3,022 
+76:Greensboro:North Carolina:223,891:104.7:2,138 
+77:Plano:Texas:222,030:71.6:3,102 
+78:Rochester:New York:219,773:35.8:6,133 
+79:Glendale:Arizona:218,812:55.7:3,929 
+80:Akron:Ohio:217,074:62.1:3,497 
+81:Garland:Texas:215,768:57.1:3,778 
+82:Madison:Wisconsin:208,054:68.7:3,029 
+83:Fort Wayne:Indiana:205,727:79.0:2,606 
+84:Fremont:California:203,413:76.7:2,652 
+85:Scottsdale:Arizona:202,705:184.2:1,100 
+86:Montgomery:Alabama:201,568:155.4:1,297 
+87:Shreveport:Louisiana:200,145:103.1:1,940 
+88:Lubbock:Texas:199,564:114.8:1,738 
+89:Chesapeake:Virginia:199,184:340.7:585 
+90:Mobile:Alabama:198,915:117.9:1,687 
+91:Des Moines:Iowa:198,682:75.8:2,621 
+92:Grand Rapids:Michigan:197,800:44.6:4,431 
+93:Richmond:Virginia:197,790:60.1:3,292 
+94:Yonkers:New York:196,086:18.1:10,847 
+95:Spokane:Washington:195,629:57.8:3,387 
+96:Augusta:Georgia:195,182:302.1:646 
+97:Glendale:California:194,973:30.6:6,362 
+98:Tacoma:Washington:193,556:50.1:3,865 
+99:Irving:Texas:191,615:67.2:2,850 
+100:Huntington Beach:California:189,594:26.4:7,183 
+101:Modesto:California:188,856:35.8:5,277 
+102:Durham:North Carolina:187,035:94.6:1,976 
+103:Orlando:Florida:185,951:93.5:1,989 
+104:Boise City:Idaho:185,787:63.8:2,913 
+105:Columbus:Georgia:185,781:216.1:860 
+106:Winston-Salem:North Carolina:185,776:108.9:1,707 
+107:San Bernardino:California:185,401:58.8:3,152 
+108:Jackson:Mississippi:184,256:104.9:1,756 
+109:Little Rock:Arkansas:183,133:116.2:1,576 
+110:Salt Lake City:Utah:181,743:109.1:1,666 
+111:Reno:Nevada:180,480:69.1:2,611 
+112:Newport News:Virginia:180,150:68.3:2,638 
+113:Chandler:Arizona:176,581:57.9:3,050 
+114:Laredo:Texas:176,576:78.5:2,250 
+115:Henderson:Nevada:175,381:79.7:2,201 
+116:Knoxville:Tennessee:173,890:92.7:1,877 
+117:Amarillo:Texas:173,627:89.9:1,932 
+118:Providence:Rhode Island:173,618:18.5:9,401 
+119:Chula Vista:California:173,556:48.9:3,551 
+120:Worcester:Massachusetts:172,648:37.6:4,596 
+121:Oxnard:California:170,358:25.3:6,729 
+122:Dayton:Ohio:166,179:55.8:2,979 
+123:Garden Grove:California:165,196:18.0:9,165 
+124:Oceanside:California:161,029:40.6:3,967 
+125:Tempe:Arizona:158,625:40.1:3,959 
+126:Huntsville:Alabama:158,216:174.1:909 
+127:Ontario:California:158,007:49.8:3,174 
+128:Chattanooga:Tennessee:155,554:135.2:1,150 
+129:Fort Lauderdale:Florida:152,397:31.7:4,803 
+130:Springfield:Massachusetts:152,082:32.1:4,737 
+131:Springfield:Missouri:151,580:73.2:2,072 
+132:Santa Clarita:California:151,088:47.8:3,159 
+133:Salinas:California:151,060:19.0:7,948 
+134:Tallahassee:Florida:150,624:95.7:1,574 
+135:Rockford:Illinois:150,115:56.0:2,680 
+136:Pomona:California:149,473:22.8:6,544 
+137:Paterson:New Jersey:149,222:8.4:17,674 
+138:Overland Park:Kansas:149,080:56.8:2,627 
+139:Santa Rosa:California:147,595:40.1:3,678 
+140:Syracuse:New York:147,306:25.1:5,871 
+141:Kansas City:Kansas:146,866:124.3:1,182 
+142:Hampton:Virginia:146,437:51.8:2,828 
+143:Lakewood:Colorado:144,126:41.6:3,465 
+144:Vancouver:Washington:143,560:42.8:3,354 
+145:Irvine:California:143,072:46.2:3,098 
+146:Aurora:Illinois:142,990:38.5:3,711 
+147:Moreno Valley:California:142,381:51.2:2,779 
+148:Pasadena:Texas:141,674:44.2:3,208 
+149:Hayward:California:140,030:44.3:3,158 
+150:Brownsville:Texas:139,722:80.4:1,738 
+151:Bridgeport:Connecticut:139,529:16.0:8,720 
+152:Hollywood:Florida:139,357:27.3:5,097 
+153:Warren:Michigan:138,247:34.3:4,032 
+154:Torrance:California:137,946:20.5:6,715 
+155:Eugene:Oregon:137,893:40.5:3,403 
+156:Pembroke Pines:Florida:137,427:33.1:4,157 
+157:Salem:Oregon:136,924:45.7:2,994 
+158:Pasadena:California:133,936:23.1:5,798 
+159:Escondido:California:133,559:36.3:3,681 
+160:Sunnyvale:California:131,760:21.9:6,006 
+161:Savannah:Georgia:131,510:74.7:1,759 
+162:Fontana:California:128,929:36.1:3,570 
+163:Orange:California:128,821:23.4:5,506 
+164:Naperville:Illinois:128,358:35.4:3,628 
+165:Alexandria:Virginia:128,283:15.2:8,451 
+166:Rancho Cucamonga:California:127,743:37.4:3,411 
+167:Grand Prairie:Texas:127,427:71.4:1,785 
+168:Fullerton:California:126,003:22.2:5,676 
+169:Corona:California:124,966:35.1:3,555 
+170:Flint:Michigan:124,943:33.6:3,715 
+171:Mesquite:Texas:124,523:43.4:2,868 
+172:Sterling Heights:Michigan:124,471:36.6:3,397 
+173:Sioux Falls:South Dakota:123,975:56.3:2,201 
+174:New Haven:Connecticut:123,626:18.9:6,558 
+175:Topeka:Kansas:122,377:56.0:2,185 
+176:Concord:California:121,780:30.1:4,041 
+177:Evansville:Indiana:121,582:40.7:2,987 
+178:Hartford:Connecticut:121,578:17.3:7,025 
+179:Fayetteville:North Carolina:121,015:58.8:2,059 
+180:Cedar Rapids:Iowa:120,758:63.1:1,913 
+181:Elizabeth:New Jersey:120,568:12.2:9,865 
+182:Lansing:Michigan:119,128:35.0:3,399 
+183:Lancaster:California:118,718:94.0:1,263 
+184:Fort Collins:Colorado:118,652:46.5:2,549 
+185:Coral Springs:Florida:117,549:23.9:4,916 
+186:Stamford:Connecticut:117,083:37.7:3,102 
+187:Thousand Oaks:California:117,005:54.9:2,133 
+188:Vallejo:California:116,760:30.2:3,868 
+189:Palmdale:California:116,670:105.0:1,111 
+190:Columbia:South Carolina:116,278:125.2:929 
+191:El Monte:California:115,965:9.6:12,139 
+192:Abilene:Texas:115,930:105.1:1,103 
+193:North Las Vegas:Nevada:115,488:78.5:1,471 
+194:Ann Arbor:Michigan:114,024:27.0:4,221 
+195:Beaumont:Texas:113,866:85.0:1,339 
+196:Waco:Texas:113,726:84.2:1,351 
+197:Independence:Missouri:113,288:78.3:1,446 
+198:Peoria:Illinois:112,936:44.4:2,543 
+199:Inglewood:California:112,580:9.1:12,323 
+200:Springfield:Illinois:111,454:54.0:2,064 
+201:Simi Valley:California:111,351:39.2:2,842 
+202:Lafayette:Louisiana:110,257:47.6:2,317 
+203:Gilbert:Arizona:109,697:43.0:2,554 
+204:Carrollton:Texas:109,576:36.5:3,004 
+205:Bellevue:Washington:109,569:30.7:3,563 
+206:West Valley City:Utah:108,896:35.4:3,076 
+207:Clearwater:Florida:108,787:25.3:4,302 
+208:Costa Mesa:California:108,724:15.6:6,956 
+209:Peoria:Arizona:108,364:138.2:784 
+210:South Bend:Indiana:107,789:38.7:2,786 
+211:Downey:California:107,323:12.4:8,641 
+212:Waterbury:Connecticut:107,271:28.6:3,754 
+213:Manchester:New Hampshire:107,006:33.0:3,241 
+214:Allentown:Pennsylvania:106,632:17.7:6,011 
+215:McAllen:Texas:106,414:46.0:2,315 
+216:Joliet:Illinois:106,221:38.1:2,791 
+217:Lowell:Massachusetts:105,167:13.8:7,635 
+218:Provo:Utah:105,166:39.6:2,653 
+219:West Covina:California:105,080:16.1:6,524 
+220:Wichita Falls:Texas:104,197:70.7:1,474 
+221:Erie:Pennsylvania:103,717:22.0:4,723 
+222:Daly City:California:103,621:7.6:13,703 
+223:Clarksville:Tennessee:103,455:94.9:1,091 
+224:Norwalk:California:103,298:9.7:10,667 
+225:Gary:Indiana:102,746:50.2:2,045 
+226:Berkeley:California:102,743:10.5:9,823 
+227:Santa Clara:California:102,361:18.4:5,566 
+228:Green Bay:Wisconsin:102,313:43.9:2,332 
+229:Cape Coral:Florida:102,286:105.2:972 
+230:Arvada:Colorado:102,153:32.7:3,128 
+231:Pueblo:Colorado:102,121:45.1:2,265 
+232:Cambridge:Massachusetts:101,355:6.4:15,765 
+233:Westminster:Colorado:100,940:31.5:3,204 
+234:San Buenaventura:California:100,916:21.1:4,790 
+235:Portsmouth:Virginia:100,565:33.2:3,032 
+236:Livonia:Michigan:100,545:35.7:2,815 
+237:Burbank:California:100,316:17.3:5,782 
+238:Athens:Georgia:100,266:117.8:851 
+239:Richmond:California:99,216:30.0:3,309 
+240:Davenport:Iowa:98,359:62.8:1,566 
+241:Dearborn:Michigan:97,775:24.4:4,013 
+242:Macon:Georgia:97,255:55.8:1,743 
+243:Charleston:South Carolina:96,650:97.0:996 
+244:South Gate:California:96,375:7.4:13,084 
+245:Fairfield:California:96,178:37.7:2,554 
+246:Norman:Oklahoma:95,694:177.0:541 
+247:Albany:New York:95,658:21.4:4,474 
+248:Gainesville:Florida:95,447:48.2:1,981 
+249:Midland:Texas:94,996:66.6:1,426 
+250:Roanoke:Virginia:94,911:42.9:2,213 
+251:El Cajon:California:94,869:14.6:6,510 
+252:Boulder:Colorado:94,673:24.4:3,884 
+253:Cary:North Carolina:94,536:42.1:2,246 
+254:Elgin:Illinois:94,487:25.0:3,779 
+255:Brockton:Massachusetts:94,304:21.5:4,393 
+256:New Bedford:Massachusetts:93,768:20.1:4,660 
+257:Compton:California:93,493:10.1:9,225 
+258:Mission Viejo:California:93,102:18.7:4,990 
+259:Olathe:Kansas:92,962:54.2:1,716 
+260:Lawton:Oklahoma:92,757:75.1:1,234 
+261:San Mateo:California:92,482:12.2:7,569 
+262:Santa Barbara:California:92,325:19.0:4,865 
+263:Fall River:Massachusetts:91,938:31.0:2,963 
+264:Rialto:California:91,873:21.9:4,200 
+265:Richardson:Texas:91,802:28.6:3,214 
+266:Visalia:California:91,565:28.6:3,204 
+267:Everett:Washington:91,488:32.5:2,814 
+268:Odessa:Texas:90,943:36.8:2,471 
+269:Fargo:North Dakota:90,599:37.9:2,388 
+270:Antioch:California:90,532:26.9:3,359 
+271:Kenosha:Wisconsin:90,352:23.8:3,795 
+272:Gresham:Oregon:90,205:22.2:4,071 
+273:Vista:California:89,857:18.7:4,810 
+274:Billings:Montana:89,847:33.7:2,665 
+275:Carson:California:89,730:18.8:4,762 
+276:Lynn:Massachusetts:89,050:10.8:8,233 
+277:Port St. Lucie:Florida:88,769:75.5:1,175 
+278:Vacaville:California:88,625:27.1:3,272 
+279:San Angelo:Texas:88,439:55.9:1,582 
+280:Sandy:Utah:88,418:22.3:3,960 
+281:Westminster:California:88,207:10.1:8,724 
+282:Quincy:Massachusetts:88,025:16.8:5,244 
+283:Miami Beach:Florida:87,933:7.0:12,501 
+284:Waukegan:Illinois:87,901:23.0:3,820 
+285:Duluth:Minnesota:86,918:68.0:1,278 
+286:Killeen:Texas:86,911:35.3:2,459 
+287:Nashua:New Hampshire:86,605:30.9:2,803 
+288:Westland:Michigan:86,602:20.5:4,235 
+289:High Point:North Carolina:85,839:49.1:1,750 
+290:Warwick:Rhode Island:85,808:35.5:2,417 
+291:Rochester:Minnesota:85,806:39.6:2,166 
+292:Alhambra:California:85,804:7.6:11,257 
+293:Sunrise:Florida:85,779:18.2:4,712 
+294:Parma:Ohio:85,655:20.0:4,291 
+295:Cicero:Illinois:85,616:5.8:14,644 
+296:Trenton:New Jersey:85,403:7.7:11,153 
+297:Bloomington:Minnesota:85,172:35.5:2,400 
+298:Citrus Heights:California:85,071:14.3:5,929 
+299:Sioux City:Iowa:85,013:54.8:1,551 
+300:Columbia:Missouri:84,531:53.1:1,593 
+301:Orem:Utah:84,324:18.4:4,572 
+302:Hawthorne:California:84,112:6.1:13,878 
+303:Santa Monica:California:84,084:8.3:10,178 
+304:Newton:Massachusetts:83,829:18.1:4,643 
+305:Whittier:California:83,680:14.6:5,719 
+306:Tyler:Texas:83,650:49.3:1,697 
+307:Federal Way:Washington:83,259:21.0:3,959 
+308:Hammond:Indiana:83,048:22.9:3,630 
+309:Norwalk:Connecticut:82,951:22.8:3,637 
+310:Plantation:Florida:82,934:21.7:3,815 
+311:Thornton:Colorado:82,384:26.9:3,067 
+312:Farmington Hills:Michigan:82,111:33.3:2,466 
+313:West Palm Beach:Florida:82,103:55.1:1,489 
+314:Youngstown:Ohio:82,026:33.9:2,420 
+315:Decatur:Illinois:81,860:41.6:1,970 
+316:Racine:Wisconsin:81,855:15.5:5,267 
+317:Reading:Pennsylvania:81,207:9.8:8,270 
+318:Troy:Michigan:80,959:33.5:2,414 
+319:Redding:California:80,865:58.4:1,384 
+320:Canton:Ohio:80,806:20.5:3,933 
+321:Denton:Texas:80,537:61.5:1,310 
+322:Fort Smith:Arkansas:80,268:50.4:1,594 
+323:Lawrence:Kansas:80,098:28.1:2,849 
+324:Roseville:California:79,921:30.5:2,622 
+325:Camden:New Jersey:79,904:8.8:9,056 
+326:North Charleston:South Carolina:79,641:58.5:1,360 
+327:Kent:Washington:79,524:28.0:2,837 
+328:San Leandro:California:79,452:13.1:6,053 
+329:Palm Bay:Florida:79,413:63.6:1,248 
+330:Lakewood:California:79,345:9.4:8,414 
+331:Roswell:Georgia:79,334:38.0:2,086 
+332:Cranston:Rhode Island:79,269:28.6:2,774 
+333:Clifton:New Jersey:78,672:11.3:6,965 
+334:Lakeland:Florida:78,452:45.8:1,711 
+335:Southfield:Michigan:78,296:26.2:2,984 
+336:Buena Park:California:78,282:10.6:7,403 
+337:Carlsbad:California:78,247:37.4:2,090 
+338:Pompano Beach:Florida:78,191:20.6:3,804 
+339:Tuscaloosa:Alabama:77,906:56.2:1,385 
+340:Lewisville:Texas:77,737:36.8:2,113 
+341:Yuma:Arizona:77,515:106.7:727 
+342:Somerville:Massachusetts:77,478:4.1:18,867 
+343:Santa Maria:California:77,423:19.3:4,006 
+344:Ogden:Utah:77,226:26.6:2,899 
+345:Kalamazoo:Michigan:77,145:24.7:3,125 
+346:Albany:Georgia:76,939:55.5:1,385 
+347:Greeley:Colorado:76,930:29.9:2,572 
+348:Scranton:Pennsylvania:76,415:25.2:3,029 
+349:Beaverton:Oregon:76,129:16.3:4,664 
+350:Arlington Heights village:Illinois:76,031:16.4:4,633 
+351:Wilmington:North Carolina:75,838:41.0:1,850 
+352:Baldwin Park:California:75,837:6.7:11,378 
+353:Davie town:Florida:75,720:33.4:2,265 
+354:Redwood City:California:75,402:19.5:3,871 
+355:Schaumburg village:Illinois:75,386:19.0:3,967 
+356:Broken Arrow:Oklahoma:74,859:45.0:1,664 
+357:Danbury:Connecticut:74,848:42.1:1,777 
+358:Boca Raton:Florida:74,764:27.2:2,750 
+359:Las Cruces:New Mexico:74,267:52.1:1,426 
+360:Evanston:Illinois:74,239:7.7:9,583 
+361:St. Joseph:Missouri:73,990:43.8:1,688 
+362:Livermore:California:73,345:23.9:3,066 
+363:Longview:Texas:73,344:54.7:1,342 
+364:Pawtucket:Rhode Island:72,958:8.7:8,350 
+365:Bellflower:California:72,878:6.1:11,999 
+366:Miramar:Florida:72,739:29.5:2,466 
+367:Wilmington:Delaware:72,664:10.8:6,698 
+368:Napa:California:72,585:17.7:4,101 
+369:Alameda:California:72,259:10.8:6,693 
+370:New Rochelle:New York:72,182:10.4:6,973 
+371:Lawrence:Massachusetts:72,043:7.0:10,351 
+372:Yakima:Washington:71,845:20.1:3,570 
+373:Lake Charles:Louisiana:71,757:40.2:1,786 
+374:New Britain:Connecticut:71,538:13.3:5,364 
+375:Melbourne:Florida:71,382:30.2:2,364 
+376:Bethlehem:Pennsylvania:71,329:19.3:3,704 
+377:Gulfport:Mississippi:71,127:56.9:1,250 
+378:Longmont:Colorado:71,093:21.8:3,262 
+379:Mountain View:California:70,708:12.1:5,861 
+380:Lee's Summit:Missouri:70,700:59.5:1,188 
+381:Kenner:Louisiana:70,517:15.1:4,659 
+382:Hillsboro:Oregon:70,186:21.6:3,254 
+383:Appleton:Wisconsin:70,087:20.9:3,356 
+384:Newport Beach:California:70,032:14.8:4,738 
+385:Lynwood:California:69,845:4.9:14,388 
+386:East Orange:New Jersey:69,824:3.9:17,775 
+387:Deltona:Florida:69,543:35.8:1,944 
+388:Largo:Florida:69,371:15.7:4,429 
+389:Wyoming:Michigan:69,368:24.4:2,840 
+390:Bloomington:Indiana:69,291:19.7:3,511 
+391:Asheville:North Carolina:68,889:40.9:1,683 
+392:Rochester Hills:Michigan:68,825:32.9:2,095 
+393:Murfreesboro:Tennessee:68,816:39.0:1,765 
+394:Waterloo:Iowa:68,747:60.7:1,132 
+395:Lorain:Ohio:68,652:24.0:2,858 
+396:Clovis:California:68,468:17.1:4,000 
+397:Upland:California:68,393:15.1:4,524 
+398:Mount Vernon:New York:68,381:4.4:15,688 
+399:West Jordan:Utah:68,336:30.9:2,211 
+400:Edmond:Oklahoma:68,315:85.1:802 
+401:College Station:Texas:67,890:40.3:1,686 
+402:Passaic:New Jersey:67,861:3.1:21,803 
+403:Champaign:Illinois:67,518:17.0:3,974 
+404:Tustin:California:67,504:11.4:5,921 
+405:Muncie:Indiana:67,430:24.2:2,788 
+406:Brooklyn Park:Minnesota:67,388:26.1:2,586 
+407:Bellingham:Washington:67,171:25.6:2,619 
+408:Chino:California:67,168:21.1:3,190 
+409:Union City:New Jersey:67,088:1.3:52,972 
+410:Union City:California:66,869:19.3:3,473 
+411:Chino Hills:California:66,787:44.8:1,490 
+412:Jacksonville:North Carolina:66,715:44.5:1,500 
+413:Baytown:Texas:66,430:32.7:2,034 
+414:Sparks:Nevada:66,346:23.9:2,773 
+415:Pontiac:Michigan:66,337:20.0:3,318 
+416:Gastonia:North Carolina:66,277:46.1:1,439 
+417:Plymouth:Minnesota:65,894:32.9:2,002 
+418:Taylor:Michigan:65,868:23.6:2,790 
+419:Bryan:Texas:65,660:43.3:1,515 
+420:Palatine village:Illinois:65,479:13.0:5,047 
+421:Springfield:Ohio:65,358:22.5:2,908 
+422:Lynchburg:Virginia:65,269:49.4:1,321 
+423:Waukesha:Wisconsin:64,825:21.6:3,000 
+424:Bloomington:Illinois:64,808:22.5:2,880 
+425:Deerfield Beach:Florida:64,583:13.4:4,810 
+426:Walnut Creek:California:64,296:19.9:3,229 
+427:Portland:Maine:64,249:21.2:3,029 
+428:Daytona Beach:Florida:64,112:58.7:1,093 
+429:Victorville:California:64,029:72.8:880 
+430:Merced:California:63,893:19.9:3,216 
+431:Suffolk:Virginia:63,677:400.0:159 
+432:Pleasanton:California:63,654:21.7:2,938 
+433:Redlands:California:63,591:35.5:1,793 
+434:Eagan:Minnesota:63,557:32.3:1,968 
+435:Pico Rivera:California:63,428:8.3:7,645 
+436:Skokie village:Illinois:63,348:10.0:6,308 
+437:Sugar Land:Texas:63,328:24.1:2,629 
+438:Redondo Beach:California:63,261:6.3:10,065 
+439:Medford:Oregon:63,154:21.7:2,910 
+440:St. Clair Shores:Michigan:63,096:11.5:5,472 
+441:Oshkosh:Wisconsin:62,916:23.6:2,662 
+442:Hoover:Alabama:62,742:43.1:1,454 
+443:Milpitas:California:62,698:13.6:4,623 
+444:Hesperia:California:62,582:67.4:929 
+445:Iowa City:Iowa:62,220:24.2:2,575 
+446:Santa Fe:New Mexico:62,203:37.3:1,666 
+447:Montebello:California:62,150:8.2:7,536 
+448:Laguna Niguel:California:61,891:14.7:4,221 
+449:Bayonne:New Jersey:61,842:5.6:10,991 
+450:Schenectady:New York:61,821:10.8:5,699 
+451:Saginaw:Michigan:61,799:17.4:3,543 
+452:Eau Claire:Wisconsin:61,704:30.3:2,038 
+453:Coon Rapids:Minnesota:61,607:22.7:2,718 
+454:Huntington Park:California:61,348:3.0:20,251 
+455:West Allis:Wisconsin:61,254:11.3:5,397 
+456:Round Rock:Texas:61,136:26.1:2,339 
+457:Hamilton:Ohio:60,690:21.6:2,808 
+458:Utica:New York:60,651:16.3:3,710 
+459:Victoria:Texas:60,603:33.0:1,838 
+460:South San Francisco:California:60,552:9.0:6,712 
+461:Greenville:North Carolina:60,476:25.6:2,364 
+462:North Little Rock:Arkansas:60,433:44.8:1,349 
+463:Boynton Beach:Florida:60,389:15.9:3,803 
+464:St. Charles:Missouri:60,321:20.4:2,962 
+465:Davis:California:60,308:10.5:5,769 
+466:Burnsville:Minnesota:60,220:24.9:2,421 
+467:Royal Oak:Michigan:60,062:11.8:5,083 
+467:Bristol:Connecticut:60,062:26.5:2,266 
+469:Monterey Park:California:60,051:7.6:7,869 
+470:Delray Beach:Florida:60,020:15.4:3,905 
+471:Chico:California:59,954:27.7:2,161 
+472:North Miami:Florida:59,880:8.5:7,079 
+473:Anderson:Indiana:59,734:40.0:1,491 
+474:Jackson:Tennessee:59,643:49.5:1,205 
+475:Terre Haute:Indiana:59,614:31.2:1,908 
+476:Rapid City:South Dakota:59,607:44.6:1,337 
+477:Janesville:Wisconsin:59,498:27.5:2,161 
+478:Waltham:Massachusetts:59,226:12.7:4,663 
+479:St. Cloud:Minnesota:59,107:30.2:1,960 
+480:La Habra:California:58,974:7.3:8,045 
+481:Haverhill:Massachusetts:58,969:33.3:1,769 
+482:Yorba Linda:California:58,918:19.4:3,042 
+483:Hemet:California:58,812:25.6:2,294 
+484:Marietta:Georgia:58,748:21.9:2,684 
+485:Des Plaines:Illinois:58,720:14.4:4,071 
+486:Lake Forest:California:58,707:12.5:4,698 
+487:Palo Alto:California:58,598:23.7:2,475 
+488:Layton:Utah:58,474:20.7:2,824 
+489:Council Bluffs:Iowa:58,268:37.4:1,559 
+490:Dearborn Heights:Michigan:58,264:11.7:4,973 
+491:Meriden:Connecticut:58,244:23.7:2,453 
+492:Lakewood:Washington:58,211:17.1:3,401 
+493:Fayetteville:Arkansas:58,047:43.4:1,337 
+494:Encinitas:California:58,014:19.1:3,035 
+495:Port Arthur:Texas:57,755:82.9:696 
+496:Gardena:California:57,746:5.8:9,921 
+497:Dothan:Alabama:57,737:86.6:667 
+498:Temecula:California:57,716:26.3:2,198 
+499:Dubuque:Iowa:57,686:26.5:2,178 
+500:Lauderhill:Florida:57,585:7.3:7,892 
+501:Harlingen:Texas:57,564:34.1:1,689 
+502:Kettering:Ohio:57,502:18.7:3,077 
+503:Taylorsville:Utah:57,439:10.7:5,376 
+504:Galveston:Texas:57,247:46.2:1,240 
+505:Camarillo:California:57,077:18.9:3,015 
+506:Missoula:Montana:57,053:23.8:2,397 
+507:Lodi:California:56,999:12.2:4,658 
+508:Tracy:California:56,929:21.0:2,711 
+509:Pittsburg:California:56,769:15.6:3,639 
+510:Great Falls:Montana:56,690:19.5:2,909 
+511:Lakewood:Ohio:56,646:5.5:10,208 
+512:Hempstead village:New York:56,554:3.7:15,365 
+513:Bossier City:Louisiana:56,461:40.8:1,383 
+514:Lafayette:Indiana:56,397:20.1:2,806 
+515:Lancaster:Pennsylvania:56,348:7.4:7,616 
+516:Malden:Massachusetts:56,340:5.1:11,102 
+517:Bolingbrook village:Illinois:56,321:20.5:2,746 
+518:Diamond Bar:California:56,287:14.8:3,813 
+519:Vineland:New Jersey:56,271:68.7:819 
+520:Mount Prospect village:Illinois:56,265:10.2:5,513 
+521:Pensacola:Florida:56,255:22.7:2,478 
+522:San Rafael:California:56,063:16.6:3,379 
+523:Greenville:South Carolina:56,002:26.1:2,148 
+524:Concord:North Carolina:55,977:51.6:1,085 
+525:Taunton:Massachusetts:55,976:46.6:1,201 
+526:Elyria:Ohio:55,953:19.9:2,814 
+527:Rocky Mount:North Carolina:55,893:35.6:1,571 
+528:Turlock:California:55,810:13.3:4,194 
+529:Medford:Massachusetts:55,765:8.1:6,851 
+530:North Richland Hills:Texas:55,635:18.2:3,056 
+531:Niagara Falls:New York:55,593:14.1:3,955 
+532:Tamarac:Florida:55,588:11.4:4,879 
+533:Bismarck:North Dakota:55,532:26.9:2,065 
+534:Jonesboro:Arkansas:55,515:79.6:697 
+535:Johnson City:Tennessee:55,469:39.3:1,412 
+536:Wheaton:Illinois:55,416:11.2:4,938 
+537:Paramount:California:55,266:4.7:11,678 
+538:Oak Lawn village:Illinois:55,245:8.6:6,427 
+539:Pine Bluff:Arkansas:55,085:45.6:1,208 
+540:Fountain Valley:California:54,978:8.9:6,167 
+541:San Marcos:California:54,977:23.8:2,314 
+542:Eden Prairie:Minnesota:54,901:32.4:1,695 
+543:La Mesa:California:54,749:9.3:5,909 
+544:Kennewick:Washington:54,693:22.9:2,385 
+545:Chicopee:Massachusetts:54,653:22.9:2,390 
+546:Santa Cruz:California:54,593:12.5:4,356 
+547:Petaluma:California:54,548:13.8:3,953 
+548:Temple:Texas:54,514:65.4:834 
+549:McKinney:Texas:54,369:58.0:937 
+550:National City:California:54,260:7.4:7,343 
+551:Apple Valley town:California:54,239:73.3:740 
+552:Midwest City:Oklahoma:54,088:24.6:2,199 
+553:Owensboro:Kentucky:54,067:17.4:3,103 
+554:Berwyn:Illinois:54,016:3.9:13,875 
+555:Decatur:Alabama:53,929:53.4:1,010 
+556:Margate:Florida:53,909:8.8:6,120 
+557:Rosemead:California:53,505:5.1:10,398 
+558:Charleston:West Virginia:53,421:31.6:1,690 
+559:Battle Creek:Michigan:53,364:42.8:1,246 
+560:Monroe:Louisiana:53,107:28.7:1,852 
+561:White Plains:New York:53,077:9.8:5,415 
+562:Arcadia:California:53,054:11.0:4,830 
+563:Shoreline:Washington:53,025:11.7:4,546 
+564:Cheyenne:Wyoming:53,011:21.1:2,511 
+565:Santee:California:52,975:16.1:3,299 
+566:Missouri City:Texas:52,913:29.7:1,782 
+567:Flagstaff:Arizona:52,894:63.6:832 
+568:Springfield:Oregon:52,864:14.4:3,670 
+569:Frederick:Maryland:52,767:20.4:2,584 
+570:Euclid:Ohio:52,717:10.7:4,923 
+571:Sarasota:Florida:52,715:14.9:3,540 
+572:Gaithersburg:Maryland:52,613:10.1:5,216 
+573:Oak Park village:Illinois:52,524:4.7:11,172 
+574:Carson City:Nevada:52,457:143.4:366 
+575:West Haven:Connecticut:52,360:10.8:4,832 
+576:Bend:Oregon:52,029:32.0:1,625 
+577:Folsom:California:51,884:21.7:2,387 
+578:Elkhart:Indiana:51,874:21.4:2,428 
+579:Nampa:Idaho:51,867:19.9:2,612 
+580:La Crosse:Wisconsin:51,818:20.1:2,573 
+581:Rio Rancho:New Mexico:51,765:73.4:705 
+582:Middletown:Ohio:51,605:25.7:2,011 
+583:Cerritos:California:51,488:8.6:5,974 
+584:Huntington:West Virginia:51,475:15.9:3,234 
+585:Pocatello:Idaho:51,466:28.2:1,822 
+586:St. Peters:Missouri:51,381:21.2:2,425 
+587:Minnetonka:Minnesota:51,301:27.1:1,890 
+588:Orland Park village:Illinois:51,077:19.1:2,668 
+589:Sheboygan:Wisconsin:50,792:13.9:3,652 
+590:Ames:Iowa:50,731:21.6:2,352 
+591:Idaho Falls:Idaho:50,730:17.1:2,972 
+592:Flower Mound:Texas:50,702:40.9:1,240 
+593:Biloxi:Mississippi:50,644:38.0:1,332 
+594:Loveland:Colorado:50,608:24.6:2,060 
+595:Milford:Connecticut:50,594:22.3:2,271 
+596:Cupertino:California:50,546:10.9:4,620 
+597:Florissant:Missouri:50,497:11.4:4,442 
+598:Maple Grove:Minnesota:50,365:32.9:1,532 
+599:Mentor:Ohio:50,278:26.8:1,878 
+600:Bowie:Maryland:50,269:16.1:3,122 
+601:Renton:Washington:50,052:17.0:2,939 
